@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://adityashriwas.wuaze.com/?i=1](https://adityashriwas.wuaze.com/?i=1)
+- 👨‍💻 All of my projects are available at [https://adityashriwas.wuaze.com/?i=1](https://adityashriwas.wuaze.com/)
 
 - 📫 How to reach me **adityashriwas09@gmail.com**
 
