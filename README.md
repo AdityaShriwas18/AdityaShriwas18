@@ -1,6 +1,6 @@
 ![logo](https://github.com/adityashriwas/adityashriwas/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aditya Shriwas</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <img align="right" alt="coding" width="350" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
