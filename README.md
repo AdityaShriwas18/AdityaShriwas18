@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityashriwas18&label=Profile%20views&color=0e75b6&style=flat" alt="adityashriwas18" /> </p>
 
+- My main GitHub Profile is [adityashriwas](https://github.com/adityashriwas)
+
 - 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [https://adityashriwas.vercel.app/](https://adityashriwas.vercel.app/)
